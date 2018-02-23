@@ -1,3 +1,3 @@
 class test {
-    System.out.print("test1");
+    System.out.print("test2");
 }
